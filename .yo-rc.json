@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "packageName": "org.hoteia.qalingo",
+    "packageFolder": "org/hoteia/qalingo",
+    "baseName": "jhipster",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "javaVersion": "7",
+    "authenticationType": "cookie",
+    "databaseType": "sql",
+    "frontendBuilder": "grunt",
+    "buildTool": "maven"
+  }
+}
